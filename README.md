@@ -30,7 +30,7 @@ Ex:	**_echo  $PATH  >  file_name_**	- предава побитово данни
  Ex:	**_grep -R <some_string> ./*_** 	(   -v    Което не се съдържа  )  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  какво&nbsp;&nbsp;&nbsp;	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         къде				
 
-|	- pipe
+|	- pipe  
 Ex:	**_ls  |  grep  <dir_name>_**	- втората команда (grep) се подава на изхода на изпълнение на първата команда (ls)  
 
 **_cat  <file_name>_**	- чете файла file_name  
