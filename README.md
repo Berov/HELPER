@@ -81,3 +81,8 @@ Vi – текстов редактор
 **_:w_**	- запис на промените  
 **_:qw_**	- запис и излизане  
 **_:е  <file_name>_**		- отваряне на файл file_name  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+[Start a GUI Application on a Remote Computer using SSH](https://www.shellhacks.com/start-gui-application-remote-computer-ssh/)
+
+
+
