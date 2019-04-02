@@ -61,6 +61,8 @@ w  - запис	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 **_kill  -9_**  <номер_на_процеса>	      - убива процеса  
 **_ps  -ax  |  grep   <име_на_процеса>_**         - убива самия процес  
 **_tar  -ZXVF  <име_на_файл_за_разархивиране>_**	- разархивира файл  
+**_tar -xvf file_name_** - ???  
+**_unzip file_name_** - 
 
 **_scp_**	- като cp , но м/у две машини
 Ex:	**_scp  -r  root@192.168.12.4_**    .	
@@ -108,7 +110,16 @@ Ex: /home/pi/.profile
 Добавяме:  
 **export JAVA_HOME=my_jdk_location  
   PATH=$JAVA_HOME/bin:$PATH**  
-  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+## PI 
+**_ssh pi@192.168.20.199_**  
+PI - GOT - open sources:  
+gogs(http://gogs.io)  
+gitea(http://gitea.io)  
+./gogs web &  
+& след отдалечено стартиране оставя приложението да работи и след излизане от ssh-сесията  
+
+
 
 
 
