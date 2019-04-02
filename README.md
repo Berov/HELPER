@@ -82,7 +82,15 @@ Vi – текстов редактор
 **_:qw_**	- запис и излизане  
 **_:е  <file_name>_**		- отваряне на файл file_name  
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+Links:  
 [Start a GUI Application on a Remote Computer using SSH](https://www.shellhacks.com/start-gui-application-remote-computer-ssh/)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+**__**
+**_ip addr_** - показва IP подобно на netstat
+**_lsblk_** - листва системата в text mode (в конзолата)  
+**_wget http://swrver/dir/dir/file_name.tar.gz_** - сваля файл  
+
 
 
 
