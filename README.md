@@ -85,8 +85,7 @@ Vi – текстов редактор
 Links:  
 [Start a GUI Application on a Remote Computer using SSH](https://www.shellhacks.com/start-gui-application-remote-computer-ssh/)
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-**__**  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   
 **_ip addr_** - показва IP подобно на netstat  
 **_netstat -nat_** - съкратено показване  
 
@@ -96,7 +95,7 @@ Links:
 **_ufw a_** - чети  
 
 **_tail file_name_**   - чети  
-**_tail -f*_**    - чети  
+**_tail -f* _**    - чети  
 
 **_lsblk_** - листва системата в text mode (в конзолата)  
 **_wget http://server/dir/dir/file_name.tar.gz_** - сваля файл  
@@ -107,7 +106,7 @@ Links:
 .profile  
 Ex: /home/pi/.profile  
 Добавяме:  
-**_  export JAVA_HOME=my_jdk_location
+**_  export JAVA_HOME=my_jdk_location  
   PATH=$JAVA_HOME/bin:$PATH_**  
   
 
