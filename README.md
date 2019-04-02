@@ -95,7 +95,7 @@ Links:
 **_ufw a_** - чети  
 
 **_tail file_name_**   - чети  
-**_tail -f* _**    - чети  
+**tail -f***    - чети  
 
 **_lsblk_** - листва системата в text mode (в конзолата)  
 **_wget http://server/dir/dir/file_name.tar.gz_** - сваля файл  
@@ -106,8 +106,8 @@ Links:
 .profile  
 Ex: /home/pi/.profile  
 Добавяме:  
-**_  export JAVA_HOME=my_jdk_location  
-  PATH=$JAVA_HOME/bin:$PATH_**  
+**export JAVA_HOME=my_jdk_location  
+  PATH=$JAVA_HOME/bin:$PATH**  
   
 
 
