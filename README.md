@@ -86,11 +86,30 @@ Links:
 [Start a GUI Application on a Remote Computer using SSH](https://www.shellhacks.com/start-gui-application-remote-computer-ssh/)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-**__**
-**_ip addr_** - показва IP подобно на netstat
-**_lsblk_** - листва системата в text mode (в конзолата)  
-**_wget http://swrver/dir/dir/file_name.tar.gz_** - сваля файл  
+**__**  
+**_ip addr_** - показва IP подобно на netstat  
+**_netstat -nat_** - съкратено показване  
 
+**_iptables_** - чети  
+**_ufw_** - чети  
+**_ufw deny 80_** - чети  
+**_ufw a_** - чети  
+
+**_tail file_name_**   - чети  
+**_tail -f*_**    - чети  
+
+**_lsblk_** - листва системата в text mode (в конзолата)  
+**_wget http://server/dir/dir/file_name.tar.gz_** - сваля файл  
+**_ln -s what_name  where_name_**  - създаване на твърди и символични връзки (ln - прави линк, -s - символичен)  
+**_sudo dpkg -i deb_packet_name_**  - инсталира deb-пакети  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+**Java install:**  
+.profile  
+Ex: /home/pi/.profile  
+Добавяме:  
+**_  export JAVA_HOME=my_jdk_location
+  PATH=$JAVA_HOME/bin:$PATH_**  
+  
 
 
 
