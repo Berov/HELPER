@@ -86,6 +86,7 @@ Vi – текстов редактор
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 Links:  
 [Start a GUI Application on a Remote Computer using SSH](https://www.shellhacks.com/start-gui-application-remote-computer-ssh/)
+[An A-Z Index of the Linux command line: bash + utilities](https://ss64.com/bash/)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   
 **_ip addr_** - показва IP подобно на netstat  
