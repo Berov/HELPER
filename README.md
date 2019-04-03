@@ -85,7 +85,7 @@ Vi – текстов редактор
 **_:е  <file_name>_**		- отваряне на файл file_name  
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 Links:  
-[Start a GUI Application on a Remote Computer using SSH](https://www.shellhacks.com/start-gui-application-remote-computer-ssh/)
+[Start a GUI Application on a Remote Computer using SSH](https://www.shellhacks.com/start-gui-application-remote-computer-ssh/)  
 [An A-Z Index of the Linux command line: bash + utilities](https://ss64.com/bash/)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   
