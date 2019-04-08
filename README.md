@@ -5,3 +5,6 @@
 2. [Linux installations]()  
 3. [Raspberry Pi]()  
 4. [PHP]()  
+5. [Android]()  
+6. [Java EE]()  
+7. [Java Script]()  
