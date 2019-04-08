@@ -109,8 +109,8 @@ Links:
 .profile  
 Ex: /home/pi/.profile  
 Добавяме:  
-**export JAVA_HOME=my_jdk_location  
-  PATH=$JAVA_HOME/bin:$PATH**  
+**_export JAVA_HOME=my_jdk_location_**  
+**_PATH=$JAVA_HOME/bin:$PATH_**  
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 ## PI 
 **_ssh pi@192.168.20.199_**  
