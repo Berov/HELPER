@@ -31,5 +31,7 @@
   
   ----------------------------------------   
 4. **MS Fonts Installation:**  
-  
- 
+  _sudo apt install ttf-mscorefonts-installer_  
+  _sudo fc-cache -f -v_  
+   ----------------------------------------   
+
