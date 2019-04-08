@@ -33,5 +33,11 @@
 4. **MS Fonts Installation:**  
   _sudo apt install ttf-mscorefonts-installer_  
   _sudo fc-cache -f -v_  
-   ----------------------------------------   
-
+  
+  ----------------------------------------  
+5. **Flash Player Instalation**  
+  sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner"  
+  sudo apt update  
+  sudo apt install adobe-flashplugin browser-plugin-freshplayer-pepperflash  
+  
+  
