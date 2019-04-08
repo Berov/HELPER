@@ -18,10 +18,8 @@
     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\`-- *.conf  
     |-- sites-enabled  
     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- *.conf  
-    
+
 ----------------------------------------   
-
-
 2. **PHP Installation:**  
   _sudo apt-get install php php-mbstring_  
   __Ex. create page:__ _echo "\<?php phpinfo();?>" > /var/www/html/info.php_  
