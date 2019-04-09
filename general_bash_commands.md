@@ -86,8 +86,8 @@ Vi – текстов редактор
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 Links:  
 [Start a GUI Application on a Remote Computer using SSH](https://www.shellhacks.com/start-gui-application-remote-computer-ssh/)  
-[An A-Z Index of the Linux command line: bash + utilities](https://ss64.com/bash/)
-
+[An A-Z Index of the Linux command line: bash + utilities](https://ss64.com/bash/)  
+[Crontab in Linux with 20 Useful Examples to Schedule Jobs](https://tecadmin.net/crontab-in-linux-with-20-examples-of-cron-schedule/)  
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   
 **_ip addr_** - показва IP подобно на netstat  
 **_netstat -nat_** - съкратено показване  
