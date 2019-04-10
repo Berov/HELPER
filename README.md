@@ -6,7 +6,7 @@
 3. [Raspberry Pi](rpi.md)  
 4. [PHP]()  
 5. [Android]()  
-6. [Java EE]()  
+6. [Java](java.md)  
 7. [Java Script]()  
 
 
