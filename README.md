@@ -9,13 +9,7 @@
 6. [Java](java.md)  
 7. [Java Script]()  
 
-[Javatpoint - The Best Portal to Learn Technologies](https://www.javatpoint.com/):  
-  C  
-  C++  
-  C#  
-  Java  
-  SQL  
-  ...  
+**NB** - [Javatpoint - The Best Portal to Learn Technologies](https://www.javatpoint.com/): C, C++, C#, Jav, SQL ...  
 
 
 
