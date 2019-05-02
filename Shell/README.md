@@ -65,7 +65,8 @@
 **_tar xjf file.tar.bz2_** - извлича tar, използвайки Bzip2  
 **_gzip file_** - компресира файл и го кръщава file.gz  
 **_gzip -d file.gz_** - декомпресира файл  
-
+**_zip_**  
+**_unzip_**  
 
 
 
