@@ -1,4 +1,4 @@
-# HELPFUL NOTES:  
+# CATALOG:  
   
   
 1. [General BASH Commands](general_bash_commands.md)  
