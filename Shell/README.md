@@ -56,6 +56,15 @@
 **_whereis app_** - показва възможни местоположения на приложение app  
 **_which app_** - показва кое точно приложение app ще се стартира по подразбиране  
 
+## Компресиране
+**_tar cf file.tar files_** - създава tar-файл с име file.tar, който съдържа files  
+**_tar xf file.tar_** - извлича файловете от file.tar  
+**_tar czf file.tar.gz files_** - създава tar-файл с Gzip-компресия  
+**_tar xzf file.tar.gz_** - извлича tar, използвайки Gzip  
+**_tar cjf file.tar.bz2_** - създава tar със Bzip2-компресия  
+**_tar xjf file.tar.bz2_** - извлича tar, използвайки Bzip2  
+**_gzip file_** - компресира файл и го кръщава file.gz  
+**_gzip -d file.gz_** - декомпресира файл  
 
 
 
