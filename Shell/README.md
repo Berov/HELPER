@@ -35,6 +35,13 @@
 
 
 
+
+
+
+
+
+
+
 --------------------------------------
 Препратки:  
 - https://itservice-bg.net/osnovni-komandi-v-linux/  
