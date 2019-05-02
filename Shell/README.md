@@ -139,3 +139,4 @@
 --------------------------------------
 Препратки:  
 - https://itservice-bg.net/osnovni-komandi-v-linux/  
+- http://matt.might.net/articles/bash-by-example/
