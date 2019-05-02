@@ -67,9 +67,16 @@
 **_gzip -d file.gz_** - декомпресира файл  
 **_zip_**  
 **_unzip_**  
-## Компресиране
 
+## Мрежови Команди
+**_ping host_** - праща пинг-сигнал до host и изписва резултата  
+**_whois domain_** - показва whois-информация за домейн domain 
+**_dig domain_** - показва DNS-информация за домейн domain  
+**_dig -x host_** - reverse lookup host  
+**_wget file_** - сваля файл file  
+**_wget -c file_** - подновява стопирано сваляне  
 
+## Инсталиране
 
 
 
