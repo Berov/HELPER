@@ -1,4 +1,4 @@
-# Unix Shell
+# Unix/Linux Shell/BASH
 -----------------------------------------------  
 **_command -params arg1 arg2 arg3…_**
 
