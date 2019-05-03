@@ -103,6 +103,13 @@
 **_wget -c file_** - подновява стопирано сваляне  
 **_ifconfig_** - показва/конфигурира мрежови интерфейс  
 **_netstat_** -  
+**_hostname -i_** - показва IP  
+**_ip addr_** - показва детайлна информация за eth-устройства  
+**_netstat -nat_** - ???  
+**_iptables_** - чети  
+**_ufw_** - чети  
+**_ufw deny 80_** - чети  
+**_ufw a_** - чети  
 
 ## Инсталиране
 Инсталиране от изходен код:  
@@ -157,3 +164,4 @@
 Препратки:  
 - https://itservice-bg.net/osnovni-komandi-v-linux/  
 - http://matt.might.net/articles/bash-by-example/
+- https://access.redhat.com/sites/default/files/attachments/rh_ip_command_cheatsheet_1214_jcs_print.pdf
